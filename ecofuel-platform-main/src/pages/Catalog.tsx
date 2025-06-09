@@ -27,7 +27,7 @@ const Catalog = () => {
   const productCategories = [
     {
       id: "gasoline",
-      title: "Бензин",
+      title: "Бензи",
       icon: "Car", // Иконка для отображения
       description: "Экологически чистый бензин с низким содержанием серы",
       color: "bg-blue-50 border-blue-200", // Цветовая схема для карточки
